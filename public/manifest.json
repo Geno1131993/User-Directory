@@ -1,0 +1,11 @@
+{
+    "short_name": "User Directory",
+    "name": "Employee User Directory",
+    "icons":[
+        //No icons in use
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#000000"
+}
